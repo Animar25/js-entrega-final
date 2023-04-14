@@ -1,0 +1,7 @@
+[
+    {"id":1,"nombre":"Velas de Soja", "precio":3000,"img":"./assets/img/velas1.jpeg", "cantidad": 1},
+    {"id":2,"nombre":"Difusores y Home Spray","precio":4000, "img":"./assets/img/difusoresyhomespray1.jpeg", "cantidad": 1},
+    {"id":3,"nombre":"Bath Bombs","precio":2500, "img":"./assets/img/bathbombs1.jpeg", "cantidad": 1},
+    {"id":4,"nombre":"Jabones","precio":1800, "img":"./assets/img/jabones1.jpeg", "cantidad": 1}
+
+]
